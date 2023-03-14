@@ -1,0 +1,15 @@
+D:\nas\mod4_1302210041\obj\Debug\net6.0\mod4_1302210041.csproj.AssemblyReference.cache
+D:\nas\mod4_1302210041\obj\Debug\net6.0\mod4_1302210041.GeneratedMSBuildEditorConfig.editorconfig
+D:\nas\mod4_1302210041\obj\Debug\net6.0\mod4_1302210041.AssemblyInfoInputs.cache
+D:\nas\mod4_1302210041\obj\Debug\net6.0\mod4_1302210041.AssemblyInfo.cs
+D:\nas\mod4_1302210041\obj\Debug\net6.0\mod4_1302210041.csproj.CoreCompileInputs.cache
+D:\nas\mod4_1302210041\bin\Debug\net6.0\mod4_1302210041.exe
+D:\nas\mod4_1302210041\bin\Debug\net6.0\mod4_1302210041.deps.json
+D:\nas\mod4_1302210041\bin\Debug\net6.0\mod4_1302210041.runtimeconfig.json
+D:\nas\mod4_1302210041\bin\Debug\net6.0\mod4_1302210041.dll
+D:\nas\mod4_1302210041\bin\Debug\net6.0\mod4_1302210041.pdb
+D:\nas\mod4_1302210041\obj\Debug\net6.0\mod4_1302210041.dll
+D:\nas\mod4_1302210041\obj\Debug\net6.0\refint\mod4_1302210041.dll
+D:\nas\mod4_1302210041\obj\Debug\net6.0\mod4_1302210041.pdb
+D:\nas\mod4_1302210041\obj\Debug\net6.0\mod4_1302210041.genruntimeconfig.cache
+D:\nas\mod4_1302210041\obj\Debug\net6.0\ref\mod4_1302210041.dll
